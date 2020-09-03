@@ -1,7 +1,7 @@
 <h1 align="center">Recriando a Interface do Netflix</h1>
 
 ### Descrição
-Clone da interface do Netflix desenvolvido com HTML5, CSS3 e JavaScript.
+Clone da interface do Netflix desenvolvido com HTML5, CSS3, JavaScript e JQuery devido a utilização do Owl Carousel para criar o carrosel com as séries que são apresentadas no rodape da pagina.
 
 
 ### Utilização
